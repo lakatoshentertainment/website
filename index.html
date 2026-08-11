@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-attr="meta.title">The Compass - Editorial Travel Template</title>
+    <!--
+
+    Tooplate 2164 Compass
+    
+    https://www.tooplate.com/view/2164-compass
+    
+    Free HTML CSS Template
+
+    -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="tooplate-2164-compass-style.css">
+</head>
+<body>
+
+    <!-- NAVIGATION -->
+    <nav class="nav-bar">
+        <a href="#" class="nav-logo" data-text="nav.logo">The Compass</a>
+        <button class="nav-toggle" data-attr="nav.toggleAria" aria-label="Toggle navigation">
+            <span></span><span></span><span></span>
+        </button>
+        <ul class="nav-links nav-links--desktop" data-list="nav.links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#reviews">Reviews</a></li>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- MOBILE DRAWER (outside nav-bar to avoid backdrop-filter containing block) -->
+    <ul class="nav-links nav-links--mobile" data-list="nav.links">
+        <li class="nav-close-wrap"><button class="nav-close" data-attr="nav.closeAria" aria-label="Close menu">&times;</button></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#reviews">Reviews</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+
+    <!-- SECTION 1 — HERO -->
+    <section class="hero">
+        <div class="hero-image">
+            <img src="config/photo-03.jpg" data-slot="hero" data-attr="hero.imageAlt" alt="Mountain landscape at golden hour" loading="eager">
+        </div>
+        <div class="hero-content">
+            <p class="hero-issue" data-text="hero.issue">Issue No. 14 &mdash; Spring 2026</p>
+            <h1 class="hero-title" data-text="hero.title">The Long Way <em>North</em></h1>
+            <div class="hero-meta">
+                <span class="hero-meta-name" data-text="hero.by.0">Photography by Tobias Keller</span>
+            </div>
+            <a class="hero-cta" href="#" target="_blank" rel="noopener" data-attr="hero.ctaHref" data-text="hero.ctaLabel">Get An Estimate</a>
+        </div>
+        <div class="hero-scroll" data-text="hero.scroll">Scroll to explore</div>
+    </section>
+
+    <!-- SECTION 2 — ABOUT -->
+    <section class="about" id="about">
+        <div class="prologue-inner">
+            <div class="prologue-block prologue-block--about reveal">
+                <h2 class="prologue-heading" data-text="about.title">About Lakatosh Entertainment</h2>
+                <div class="prologue-body" data-paragraphs="about.body"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 3 — REVIEWS -->
+    <section class="reviews" id="reviews">
+        <div class="prologue-inner">
+            <div class="prologue-block reveal">
+                <h2 class="prologue-heading" data-text="reviews.title">Reviews</h2>
+                <div class="prologue-grid">
+                    <blockquote class="prologue-review">
+                        <p data-text="reviews.items.0.quote">Review one.</p>
+                        <footer data-text="reviews.items.0.name">&mdash; Bride, June 2026</footer>
+                    </blockquote>
+                    <blockquote class="prologue-review">
+                        <p data-text="reviews.items.1.quote">Review two.</p>
+                        <footer data-text="reviews.items.1.name">&mdash; Event Coordinator</footer>
+                    </blockquote>
+                    <blockquote class="prologue-review">
+                        <p data-text="reviews.items.2.quote">Review three.</p>
+                        <footer data-text="reviews.items.2.name">&mdash; Ministry Volunteer</footer>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 4 — FAQ -->
+    <section class="faq" id="faq">
+        <div class="prologue-inner">
+            <div class="prologue-block reveal">
+                <h2 class="prologue-heading" data-text="faq.title">FAQ</h2>
+                <div class="prologue-grid">
+                    <div class="prologue-faq">
+                        <h3 data-text="faq.items.0.q">Question one?</h3>
+                        <p data-text="faq.items.0.a">Answer one.</p>
+                    </div>
+                    <div class="prologue-faq">
+                        <h3 data-text="faq.items.1.q">Question two?</h3>
+                        <p data-text="faq.items.1.a">Answer two.</p>
+                    </div>
+                    <div class="prologue-faq">
+                        <h3 data-text="faq.items.2.q">Question three?</h3>
+                        <p data-text="faq.items.2.a">Answer three.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 5 — THE GALLERY -->
+    <section class="gallery" id="gallery">
+        <div class="gallery-header reveal">
+            <h2 class="gallery-title" data-text="gallery.title">Field Notes</h2>
+            <span class="gallery-count" data-text="gallery.count">7 Photographs</span>
+        </div>
+        <div class="gallery-grid">
+            <div class="gallery-item tall reveal">
+                <img src="config/photo-22.jpg" data-slot="gallery-0" data-attr="gallery.items.0.alt" alt="Arctic landscape" loading="lazy">
+            </div>
+            <div class="gallery-item reveal">
+                <img src="config/photo-23.jpg" data-slot="gallery-1" data-attr="gallery.items.1.alt" alt="Coastal village" loading="lazy">
+            </div>
+            <div class="gallery-item reveal">
+                <img src="config/photo-24.jpg" data-slot="gallery-2" data-attr="gallery.items.2.alt" alt="Mountain reflection" loading="lazy">
+            </div>
+            <div class="gallery-item reveal">
+                <img src="config/photo-25.jpg" data-slot="gallery-3" data-attr="gallery.items.3.alt" alt="Ice formations" loading="lazy">
+            </div>
+            <div class="gallery-item tall reveal">
+                <img src="config/photo-26.jpg" data-slot="gallery-4" data-attr="gallery.items.4.alt" alt="Waterfall cascade" loading="lazy">
+            </div>
+            <div class="gallery-item reveal">
+                <img src="config/photo-27.jpg" data-slot="gallery-5" data-attr="gallery.items.5.alt" alt="Northern coastline" loading="lazy">
+            </div>
+            <div class="gallery-item reveal">
+                <img src="config/photo-28.jpg" data-slot="gallery-6" data-attr="gallery.items.6.alt" alt="Turf-roofed houses" loading="lazy">
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 6 — CONTACT -->
+    <footer class="site-footer" id="contact">
+        <div class="contact-inner">
+            <h2 class="contact-heading" data-text="contact.heading">Get In Touch</h2>
+            <ul class="contact-links">
+                <li><a data-attr="contact.facebook.href" data-text="contact.facebook.label" href="#">Facebook</a></li>
+                <li><a data-attr="contact.instagram.href" data-text="contact.instagram.label" href="#">Instagram</a></li>
+                <li><a data-attr="contact.emailHref" data-text="contact.email" href="#">Email</a></li>
+            </ul>
+        </div>
+    </footer>
+    <script src="config/photos.js"></script>
+    <script src="config/photos-loader.js"></script>
+    <script src="config/text.js"></script>
+    <script src="config/text-loader.js"></script>
+    <script src="tooplate-2164-compass-script.js"></script>
+</body>
+</html>
