@@ -38,7 +38,7 @@ window.TEXT = {
     title: "LAKATOSH ENTERTAINMENT</em>",
     imageAlt: "Mountain landscape at golden hour",
     by: [
-      "Your one stop shop for your Knoxville DJ needs"
+      "East Tennessee's premier wedding DJs."
     ],
     ctaLabel: "Get An Estimate",
     ctaHref: "https://forms.google.com/your-form-link",
