@@ -12,7 +12,7 @@
 */
 
 window.PHOTOS = {
-  hero:   "home_dark.jpg",
+  hero:   "dance_party.jpg",
   gallery: [
     "photo-22.jpg",
     "photo-23.jpg",
