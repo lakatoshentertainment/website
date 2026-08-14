@@ -46,9 +46,9 @@ window.TEXT = {
   },
 
   about: {
-    title: "About Lakatosh Entertainment",
+    title: "About",
     body: [
-      "Welcome to Lakatosh Entertainment, your one-stop shop for all your DJ needs. Our team has experience with weddings, parties, ministry events, and proms."
+      "Lakatosh entertainment brings years of experience in live sound, wedding DJing, and MCing to the east Tennessee area. Every wedding is unique, and yours deserves to be handled skillfully, professionally, and tastefully. If you need a party done right, call the best at Lakatosh Entertainment."
     ]
   },
 
@@ -65,8 +65,8 @@ window.TEXT = {
     title: "FAQ",
     items: [
       { q: "What types of events do you cover?", a: "Weddings, birthday parties, ministry events, proms, corporate functions, and more. If it needs music, we can cover it." },
-      { q: "What equipment do you bring?", a: "We bring professional sound, lighting, and microphones, plus a backup setup to keep your event running smoothly." },
-      { q: "Can you read the room and adapt?", a: "Yes - we tailor every set to your event and keep the energy matching the moment, from slow first dances to packed dance floors." }
+      { q: "Do you do corporate events?", a: "Yes! Lakatosh Entertainment serves all MC and DJ needs for corporate events, proms, and celebrations of every kind. Email directly for pricing." },
+      { q: "What if the DJ gets sick before the wedding?", a: "No worries. Lakatosh Entertainment works with a trusted network of substitute DJs, so no matter what happens, the show goes on." }
     ]
   },
 
