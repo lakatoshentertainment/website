@@ -64,7 +64,7 @@ window.TEXT = {
   faq: {
     title: "FAQ",
     items: [
-      { q: "What types of events do you cover?", a: "Weddings, birthday parties, ministry events, proms, corporate functions, and more. If it needs music, we can cover it." },
+      { q: "Do you travel?", a: "Yes! We serve all of East Tennessee with a focus on the greater Knoxville area. Travel fees may apply for venues outside our standard service area." },
       { q: "Do you do corporate events?", a: "Yes! Lakatosh Entertainment serves all MC and DJ needs for corporate events, proms, and celebrations of every kind. Email directly for pricing." },
       { q: "What if the DJ gets sick before the wedding?", a: "No worries. Lakatosh Entertainment works with a trusted network of substitute DJs, so no matter what happens, the show goes on." }
     ]
