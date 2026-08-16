@@ -16,7 +16,7 @@ window.PHOTOS = {
   gallery: [
     "child_on_shoulders.jpg",
     "groom_leg_kick.jpg",
-    "row_the_boat_dancefloor.jpg",
+    "having_fun_dancing.jpg",
     "dance_groove.JPEG",
     "Boogie_up.jpg",
     "couple_dance.JPEG",
