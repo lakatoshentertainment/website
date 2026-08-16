@@ -15,7 +15,7 @@ window.PHOTOS = {
   hero:   "dance_party.jpg",
   gallery: [
     "photo-22.jpg",
-    "photo-23.jpg",
+    "row_the_boat_dancefloor.jpg",
     "photo-24.jpg",
     "photo-25.jpg",
     "photo-26.jpg",
