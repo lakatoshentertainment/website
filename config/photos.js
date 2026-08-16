@@ -16,7 +16,7 @@ window.PHOTOS = {
   gallery: [
     "photo-22.jpg",
     "row_the_boat_dancefloor.jpg",
-    "photo-24.jpg",
+    "row_the_boat_dancefloor.jpg",
     "photo-25.jpg",
     "photo-26.jpg",
     "photo-27.jpg",
