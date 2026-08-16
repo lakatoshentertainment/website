@@ -14,12 +14,12 @@
 window.PHOTOS = {
   hero:   "dance_party.jpg",
   gallery: [
-    "photo-22.jpg",
+    "child_on_shoulders.jpg",
     "groom_leg_kick.jpg",
     "row_the_boat_dancefloor.jpg",
     "dance_groove.JPEG",
-    "swing_dance_laughing.jpg",
-    "photo-27.jpg",
+    "Boogie_up.jpg",
+    "couple_dance.JPEG",
     "Boogie_up.jpg"
   ]
 };
