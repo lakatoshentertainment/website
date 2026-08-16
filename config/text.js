@@ -55,7 +55,7 @@ window.TEXT = {
   reviews: {
     title: "Reviews",
     items: [
-      { quote: "Lakatosh Entertainment helped make our wedding into a truly unforgettable evening. Couldn’t recommend enough.", name: "&mdash; Cole & Addisyn Smith" },
+      { quote: "Lakatosh Entertainment helped make our wedding into a truly unforgettable evening. Couldn’t recommend enough.", name: "&mdash; Cole, Groom April 2026" },
       { quote: "Professional, reliable, and a blast to work with. Our guests are still talking about it weeks later.", name: "&mdash; Event Coordinator" },
       { quote: "They handled our ministry event with the perfect balance of energy and respect. Highly recommended.", name: "&mdash; Ministry Volunteer" }
     ]
