@@ -36,11 +36,11 @@ window.TEXT = {
   hero: {
     issue: "",
     title: "LAKATOSH ENTERTAINMENT</em>",
-    imageAlt: "Mountain landscape at golden hour",
+    imageAlt: "People having gun at wedding reception",
     by: [
-      "East Tennessee's premier wedding DJs."
+      "Wedding DJ packages starting at $1200."
     ],
-    ctaLabel: "Get An Estimate",
+    ctaLabel: "Book Now",
     ctaHref: "https://docs.google.com/forms/d/e/1FAIpQLSf5-A5_OGs2YeRuDopdplnyta027j4FxX3PD8cLor1ZA2q9OQ/viewform?usp=header",
     scroll: "Scroll to explore"
   },
