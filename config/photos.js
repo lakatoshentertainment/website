@@ -18,7 +18,7 @@ window.PHOTOS = {
     "groom_leg_kick.jpg",
     "having_fun_dancing.jpg",
     "dance_groove.JPEG",
-    "Boogie_up.jpg",
+    "boogie_down.jpg",
     "couple_dance.JPEG",
     "Boogie_up.jpg"
   ]
