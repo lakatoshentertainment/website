@@ -35,7 +35,7 @@ window.TEXT = {
 
   hero: {
     issue: "",
-    title: "LAKATOSH ENTERTAINMENT</em>",
+    title: "LAKATOSH ENTERTAINMENT",
     imageAlt: "People having gun at wedding reception",
     by: [
       "Wedding DJ packages starting at $1200."
