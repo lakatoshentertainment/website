@@ -74,13 +74,13 @@ window.TEXT = {
     title: "Gallery",
     count: "",
     items: [
-      { title: "Kid on Shoulders",     , alt: "Child jumps on one of the guests' shoulders" },
-      { title: "Groom in Air",   alt: "All the groomsmen throw the groom in the air" },
-      { title: "Dancing Train",    alt: "A train of people dancing breaks out on the dancefloor" },
-      { title: "Party People",    alt: "Friends have fun at a wedding reception" },
-      { title: "Bride and Groom",   alt: "The bride and groom enjoy a moment dancing together" },
+      { title: "Kid on Shoulders", alt: "Child jumps on one of the guests' shoulders" },
+      { title: "Groom in Air", alt: "All the groomsmen throw the groom in the air" },
+      { title: "Dancing Train", alt: "A train of people dancing breaks out on the dancefloor" },
+      { title: "Party People", alt: "Friends have fun at a wedding reception" },
+      { title: "Bride and Groom", alt: "The bride and groom enjoy a moment dancing together" },
       { title: "Cha Cha Slide", alt: "Man breaks it down to the cha cha slide" },
-      { title: "Bust a Move",      alt: "Man dances smoothly at the reception" }
+      { title: "Bust a Move", alt: "Man dances smoothly at the reception" }
     ]
   },
 
