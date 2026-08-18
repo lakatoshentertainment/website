@@ -18,8 +18,8 @@ window.PHOTOS = {
     "groom_leg_kick.jpg",
     "having_fun_dancing.jpg",
     "dance_groove.JPEG",
-    "boogie_down.jpg",
+    "Boogie_up.jpg",
     "couple_dance.JPEG",
-    "Boogie_up.jpg"
+    "boogie_down.jpg"
   ]
 };
