@@ -87,7 +87,7 @@ window.TEXT = {
   contact: {
     heading: "Contact",
     facebook: { label: "Facebook", href: "https://www.facebook.com/profile.php?id=61593162192955" },
-    instagram: { label: "Instagram", href: "https://www.instagram.com/yourhandle" },
+    instagram: { label: "Instagram", href: "https://www.instagram.com/lakatoshentertainment/" },
     email: "lakatoshentertainment@gmail.com",
     emailHref: "mailto:lakatoshentertainment@gmail.com"
   }
