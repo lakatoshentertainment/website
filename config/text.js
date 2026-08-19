@@ -48,7 +48,7 @@ window.TEXT = {
   about: {
     title: "About",
     body: [
-      "Lakatosh entertainment brings years of experience in live sound, wedding DJing, and MCing to the east Tennessee area. Every wedding is unique, and yours deserves to be handled skillfully, professionally, and tastefully. If you need a party done right, call the best at Lakatosh Entertainment."
+      "Lakatosh Entertainment brings years of experience in live sound, wedding DJing, and MCing to the east Tennessee area. Every wedding is unique, and yours deserves to be handled skillfully, professionally, and tastefully. If you need a party done right, call the best at Lakatosh Entertainment."
     ]
   },
 
