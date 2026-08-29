@@ -12,7 +12,7 @@
 */
 
 window.PHOTOS = {
-  hero:   "groom_crowd_surfing.png",
+  hero:   "groom_crowd_surfing.PNG",
   gallery: [
     "child_on_shoulders.jpg",
     "groom_leg_kick.jpg",
