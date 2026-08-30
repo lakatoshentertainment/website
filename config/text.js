@@ -57,8 +57,8 @@ window.TEXT = {
     title: "Reviews",
     items: [
       { quote: "Lakatosh Entertainment helped make our wedding into a truly unforgettable evening. Couldn’t recommend enough.", name: "&mdash; Cole, Groom April 2026" },
-      { quote: "Professional, reliable, and a blast to work with. Our guests are still talking about it weeks later.", name: "&mdash; Event Coordinator" },
-      { quote: "Robert did an awesome job at our wedding. He knows how to work the dance floor and keep the party going! Working with him was a great experience. I’d highly recommend!", name: "&mdash; Caleb, Groom June 2025" }
+      { quote: "Robert was such a great Dj / tech professional. He made everything go smoothly at our wedding and we are forever grateful. Even when we changed up some in the weeks/days before he still was able to work everything out and be very willing to serve us. I wouldn’t recommend anyone else", name: "&mdash; Ander, Groom July 2026" },
+      { quote: "AMAZING DJ! Tell Robert what you want your reception to feel like, and he’ll make it happen. He met with us beforehand to discuss our music taste and song preferences. We wanted our reception to be fun and danceable for all ages. Robert seamlessly was able to get everyone from toddlers to grandmas on the dance floor! It was beautiful!! I’ve also seen Robert DJ other weddings that leaned toward club music and WOW THOSE WERE SO FUN!! He is the master of epic transitions and beat drops. 10/10 would recommend Lakatosh Entertainment to anyone needing a DJ!", name: "&mdash; Emma, Bride June 2025" }
     ]
   },
 
