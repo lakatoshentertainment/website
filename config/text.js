@@ -41,8 +41,7 @@ window.TEXT = {
       "Wedding DJ packages starting at $1200."
     ],
     ctaLabel: "Book Now",
-    ctaHref: "https://docs.google.com/forms/d/e/1FAIpQLSf5-A5_OGs2YeRuDopdplnyta027j4FxX3PD8cLor1ZA2q9OQ/viewform?usp=header",
-    scroll: "Scroll to explore"
+    ctaHref: "https://docs.google.com/forms/d/e/1FAIpQLSf5-A5_OGs2YeRuDopdplnyta027j4FxX3PD8cLor1ZA2q9OQ/viewform?usp=header"
   },
 
   about: {
