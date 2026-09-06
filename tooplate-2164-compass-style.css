@@ -620,6 +620,10 @@ a:hover {
         display: none;
     }
 
+    .hero-title {
+        font-size: clamp(2rem, 9vw, 3.5rem);
+    }
+
     .nav-links--mobile {
         display: flex;
         position: fixed;
