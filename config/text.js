@@ -57,7 +57,7 @@ window.TEXT = {
     title: "Reviews",
     items: [
       { quote: "Lakatosh Entertainment helped make our wedding into a truly unforgettable evening. Couldn’t recommend enough.", name: "&mdash; Cole, Groom April 2026" },
-      { quote: "Robert was such a great Dj / tech professional. He made everything go smoothly at our wedding and we are forever grateful. Even when we changed up some in the weeks/days before he still was able to work everything out and be very willing to serve us. I wouldn’t recommend anyone else", name: "&mdash; Ander, Groom July 2026" },
+      { quote: "Robert was such a great Dj / tech professional. He made everything go smoothly at our wedding and we are forever grateful. Even when we changed up some in the weeks/days before he still was able to work everything out and be very willing to serve us. I wouldn’t recommend anyone else.", name: "&mdash; Ander, Groom July 2026" },
       { quote: "Robert did such a great job at our wedding! He was flexible, kind, and talented. His mixes were fun and kept the crowd dancing. Definitely would recommend!", name: "&mdash; Hannah, Bride October 2025" }
     ]
   },
