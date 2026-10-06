@@ -9,6 +9,7 @@
     nav.links          -> the nav items (+ logo), used for desktop & mobile
     hero               -> hero section copy
     about              -> about section copy
+    packages           -> wedding package prices, hours, and features
     reviews            -> reviews section copy
     faq                -> faq section copy
     gallery            -> gallery title/count + captions
@@ -26,6 +27,7 @@ window.TEXT = {
     closeAria: "Close menu",
     links: [
       { label: "About", href: "#about" },
+      { label: "Packages", href: "#packages" },
       { label: "Reviews", href: "#reviews" },
       { label: "FAQ", href: "#faq" },
       { label: "Gallery", href: "#gallery" },
@@ -50,6 +52,55 @@ window.TEXT = {
       "Every wedding is unique, and yours deserves to be handled with skill, professionalism, and style. With years of experience in live sound, wedding DJing, and MC services throughout East Tennessee, we bring the knowledge, energy, and attention to detail needed to keep your celebration moving from the first song to the final dance.",
 
       "We work closely with each couple to understand your vision, musical tastes, and expectations. Whether you're planning a traditional wedding or the party of a lifetime, we tailor our services to fit your style, not the other way around. When you want your wedding done right, call the best at Lakatosh Entertainment."
+    ]
+  },
+
+  packages: {
+    "title": "Wedding DJ Packages",
+    "ctaLabel": "Get In Touch",
+    "customText": "Looking for a DJ for your next event? Contact for custom pricing.",
+    "customCtaLabel": "Event DJ Inquiry",
+    "items": [
+      {
+        "name": "The Essentials",
+        "price": "$1,199",
+        "duration": "4 hours",
+        "features": [
+          "Ceremony prelude music",
+          "Ceremony music",
+          "Officiant microphone",
+          "DJ and MC services for cocktail hour and reception",
+          "Full control over play and do-not play lists"
+        ]
+      },
+      {
+        "name": "The Signature",
+        "price": "$1,499",
+        "duration": "6 hours",
+        "features": [
+          "Ceremony prelude music",
+          "Ceremony music",
+          "Officiant microphone",
+          "DJ and MC services for cocktail hour and reception",
+          "1 Toast microphone provided",
+          "Full control over play and do-not play lists"
+        ]
+      },
+      {
+        "name": "The Grand",
+        "price": "$1,799",
+        "duration": "8 hours",
+        "features": [
+          "Ceremony prelude music",
+          "Ceremony music",
+          "Officiant microphone",
+          "Microphones for ceremony musicians",
+          "DJ and MC services for cocktail hour and reception",
+          "2 Toast microphones",
+          "Party lights",
+          "Full control over play and do-not play lists"
+        ]
+      }
     ]
   },
 
