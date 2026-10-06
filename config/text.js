@@ -40,7 +40,7 @@ window.TEXT = {
     title: "LAKATOSH ENTERTAINMENT",
     imageAlt: "People having fun at wedding reception",
     by: [
-      "Wedding DJ packages starting at $1199."
+      "East Tennessee's Premier Entertainment Company."
     ],
     ctaLabel: "Get A Free Quote",
     ctaHref: "https://docs.google.com/forms/d/e/1FAIpQLSf5-A5_OGs2YeRuDopdplnyta027j4FxX3PD8cLor1ZA2q9OQ/viewform?usp=header"
